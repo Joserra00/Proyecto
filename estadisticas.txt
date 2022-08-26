@@ -1,0 +1,4 @@
+JIN KAZAMA:100:40:60:Rompe armadura
+CHUN LI:100:80:20:Aumento armadura
+M. BISON:100:70:40:Robo de vida
+ZANGIEF:180:35:55:Triple golpe
